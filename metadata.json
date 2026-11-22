@@ -1,0 +1,6 @@
+{
+  "name": "DakMitra",
+  "description": "DakMitra — Offline-capable Postal Directory PWA for managing, searching, and crowdsourcing post office records.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "DakMitra",
+  "short_name": "DakMitra",
+  "version": "1.0.2",
+  "version_name": "1.0.2",
+  "start_url": "./",
+  "scope": "./",
+  "background_color": "#f8fafc",
+  "theme_color": "#f8fafc",
+  "display": "standalone",
+  "color_scheme": "light dark",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
